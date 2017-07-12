@@ -2,4 +2,4 @@
 Intro to GitHub
 
 Hi All!
-RandomLad here. 
+RandomLad here. Learning GitHub.
